@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'rspec'
 gem 'simplecov'
-gem 'rake'
+gem "diff-lcs"

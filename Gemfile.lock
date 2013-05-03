@@ -3,7 +3,6 @@ GEM
   specs:
     diff-lcs (1.2.4)
     multi_json (1.7.2)
-    rake (10.0.4)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
@@ -21,6 +20,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rake
+  diff-lcs
   rspec
   simplecov
