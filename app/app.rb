@@ -1,7 +1,7 @@
 class App
   
   def say
-    'hello'
+    "hello"
   end
   
 end
