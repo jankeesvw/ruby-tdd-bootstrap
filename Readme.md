@@ -12,19 +12,11 @@ To install all required gems run:
     $ bundle install
     $ rbenv rehash # Only if you use Rbenv
 
-To run the tests with coverage (default) `rspec spec`
+To run the tests with coverage (default) `rspec`
 
-    $ rspec spec
+    $ rspec
     .
 
     Finished in 0.0002 seconds
     1 example, 0 failures
     Coverage report generated for RSpec to ./coverage. 3 / 3 LOC (100.0%) covered.
-
-To run without coverage run `DISABLE_COVERAGE=true rspec spec`
-
-    $ DISABLE_COVERAGE=true rspec spec
-    .
-
-    Finished in 0.00031 seconds
-    1 example, 0 failures
