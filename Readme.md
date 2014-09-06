@@ -1,6 +1,6 @@
 # Simple Ruby TDD setup
 
-[![Dependency Status](https://gemnasium.com/jankeesvw/ruby-tdd-bootstrap.png)](https://gemnasium.com/jankeesvw/ruby-tdd-bootstrap)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/39a287f6-c766-4369-a532-0a3e92d1bed9/243329/shields_badge.png)](https://semaphoreapp.com/jankeesvw/ruby-tdd-bootstrap) [![Dependency Status](https://gemnasium.com/jankeesvw/ruby-tdd-bootstrap.png)](https://gemnasium.com/jankeesvw/ruby-tdd-bootstrap)
 
 When I teach someone Ruby, I always need the simplest possible TDD setup.
 
