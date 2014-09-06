@@ -7,7 +7,7 @@ describe App do
   end
 
   it "should say hello" do
-    @app.say.should == "hello"
+    expect(@app.say).to eq "hello"
   end
 
 end
